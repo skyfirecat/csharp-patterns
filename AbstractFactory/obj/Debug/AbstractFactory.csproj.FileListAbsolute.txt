@@ -1,0 +1,6 @@
+E:\uni coding\patterns\AbstractFactory\bin\Debug\AbstractFactory.dll
+E:\uni coding\patterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\uni coding\patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+E:\uni coding\patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\uni coding\patterns\AbstractFactory\obj\Debug\AbstractFactory.dll
+E:\uni coding\patterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
